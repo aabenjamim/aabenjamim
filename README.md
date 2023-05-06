@@ -14,7 +14,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou uma entusiasta de tecnologia apaixonada por desenvolvimento web. Adoro aprender novas tecnologias e explorar diferentes áreas da programação.
+Sou um entusiasta de tecnologia apaixonada por programação e desenvolvimento de software. Estou sempre em busca de novos desafios e de conhecer coisas novas, vivendo uma jornada de aprendizado e desenvolvimento.
 
 ## 💻 Tecnologias
 
@@ -41,4 +41,4 @@ Fique à vontade para entrar em contato comigo por meio da rede social acima ou 
 
 ## 😄 Obrigada pela visita!
 
-Espero que você tenha gostado de conhecer um pouco sobre mim. Fique à vontade para
+Espero que você encontre algo interessante aqui! Fique à vontade para explorar meus repositórios e não hesite em me contatar. 😄
