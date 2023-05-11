@@ -14,7 +14,12 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou um entusiasta de tecnologia apaixonada por programação e desenvolvimento de software. Estou sempre em busca de novos desafios e de conhecer coisas novas, vivendo uma jornada de aprendizado e desenvolvimento.
+<p>🤩 Entusiasta de tecnologia apaixonada por programação e desenvolvimento de software</p>
+<p>⚙️ Estudante de Engenharia Mecânica e Sistemas de Informação</p>
+<p>🤓 Desenvolvedora Full Stack em formação pela Driven Education</p>
+<p>🐾 A humana de 8 cachorrinhos</p>
+<p>🖌️ Aquarelista nas horas vagas</p>
+
 
 ## 💻 Tecnologias
 
